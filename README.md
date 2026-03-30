@@ -134,9 +134,11 @@ Use the admin credentials configured in your database.
 ---
  
 ## 📸 Screenshots
- 
-><img width="1902" height="1079" alt="Screenshot 2026-03-30 210347" src="https://github.com/user-attachments/assets/9ba93310-88f0-4cd3-ae3c-de857bf24ec9" />
-![Uploading Screenshot 2026-03-30 210313.png…]()
+
+<img width="1896" height="1079" alt="Screenshot 2026-03-30 210313" src="https://github.com/user-attachments/assets/ce372a71-baf3-4adf-a3c9-c491b2e5c0f7" />
+
+<img width="1902" height="1079" alt="Screenshot 2026-03-30 210347" src="https://github.com/user-attachments/assets/0cc508b2-e348-4784-a100-8286ab8bfb2a" />
+
 Login page, and Admin Dashboard here)*
  
 ---
