@@ -135,7 +135,9 @@ Use the admin credentials configured in your database.
  
 ## 📸 Screenshots
  
-> *(Add screenshots of the Home page, Login page, and Admin Dashboard here)*
+><img width="1902" height="1079" alt="Screenshot 2026-03-30 210347" src="https://github.com/user-attachments/assets/9ba93310-88f0-4cd3-ae3c-de857bf24ec9" />
+![Uploading Screenshot 2026-03-30 210313.png…]()
+Login page, and Admin Dashboard here)*
  
 ---
  
